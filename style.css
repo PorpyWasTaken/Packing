@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+li {
+  list-style: none;
+  margin: 5px 0;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
